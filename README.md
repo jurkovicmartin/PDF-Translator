@@ -1,7 +1,7 @@
 # PDF Translator
 A really simple application that extracts text from a **pdf file** and **translates** it. It was more of a learning project because the functionality is really **limited**. Far better pdf file translation can be achieved by using the **online DeepL file translator feature**.
 
-For the translation process DeepL API is used. GUI was made with Tkinter and CustomTkinter.
+For the translation process DeepL API is used. GUI was made with Tkinter and CustomTkinter and PyMuPDF for pdf files operations.
 
 <img src="README_img/app.png" title="Application showcase" alt="Application showcase" width="50%">
 
